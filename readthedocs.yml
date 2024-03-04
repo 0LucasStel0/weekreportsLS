@@ -14,7 +14,7 @@ build:
   tools:
     python: "3.12"
       install:
-       - requirements: docs/requirements.txt
+        - requirements: docs/requirements.txt
     # You can also specify other tool versions:
     # nodejs: "20"
     # rust: "1.70"
