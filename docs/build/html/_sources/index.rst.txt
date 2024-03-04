@@ -1,5 +1,5 @@
-Week Reports: LS
-================
+Week Reports
+============
 
 Welcome
 -------
